@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.inputContainer}>
         <TextInput 
-        placeholder="Course Goal"
+        placeholder="Course Goals"
         style={styles.input}
         />
         <Button title="Add" />
